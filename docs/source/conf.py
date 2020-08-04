@@ -78,9 +78,9 @@ html_sidebars = {
         'searchbox.html',
     ]
 }
-html_theme_options = {
-    'navigation_depth': 3, #default is 4 - changed for better looks
-}
+#html_theme_options = {
+    #'navigation_depth': 3, #default is 4 - changed for better looks
+#}
 
 # Additional files
 html_extra_path = ['_extra']
